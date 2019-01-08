@@ -2393,7 +2393,7 @@ table.dataTable thead td {
     text-align: center;
 }
 
-.submit-btn-area button {
+.submit-btn-area input {
     width: 100%;
     height: 50px;
     border: none;
@@ -2409,18 +2409,18 @@ table.dataTable thead td {
     transition: all 0.3s ease 0s;
 }
 
-.submit-btn-area button:hover {
+.submit-btn-area input:hover {
     background: #2c71da;
     color: #ffffff;
 }
 
-.submit-btn-area button i {
+.submit-btn-area input i {
     margin-left: 15px;
     -webkit-transition: margin-left 0.3s ease 0s;
     transition: margin-left 0.3s ease 0s;
 }
 
-.submit-btn-area button:hover i {
+.submit-btn-area input:hover i {
     margin-left: 20px;
 }
 
